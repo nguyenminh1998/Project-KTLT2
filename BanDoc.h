@@ -18,5 +18,5 @@ public:
 		this->sKhoa = sKhoa;
 	}
 	~BanDoc(void){};
-};
+}; 
 
