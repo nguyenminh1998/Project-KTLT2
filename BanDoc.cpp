@@ -13,4 +13,4 @@ void BanDoc::xuatBD()
 	cout << "Ngay DK: "; 
 	this->xNgayDK.outputDate();
 	cout << endl;
-}
+} 
