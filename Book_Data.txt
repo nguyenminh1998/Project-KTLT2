@@ -1,0 +1,5 @@
+sach moi thu 1
+001    Vat Ly   Hau Gia  Kim Dong      2016       130
+sach moi thu 2
+002      Toan   Ngoc Nu  Tuoi Tre      2015       100
+23
